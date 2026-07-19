@@ -68,7 +68,7 @@
   <circle cx="38" cy="18" r="6" fill="#f59e0b" />
   <circle cx="56" cy="18" r="6" fill="#10b981" />
 
-  <text x="76" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#64748b">shyyx@caixa-seguranca: ~/shyyunzfire (zsh)</text>
+  <text x="76" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#64748b">shyyunz@caixa-seguranca: ~/shyyunzfire (zsh)</text>
 
   <!-- Status LED Badge Right Top -->
   <g transform="translate(670, 10)">
@@ -99,8 +99,8 @@
 
   <!-- Right Side Main Content -->
   <!-- Title -->
-  <text x="230" y="95" font-family="'Orbitron', 'Fira Code', sans-serif" font-size="32" font-weight="900" fill="#0f172a">SHYYX</text>
-  <text x="365" y="95" font-family="'Orbitron', 'Fira Code', sans-serif" font-size="32" font-weight="900" fill="url(#indigo-cyan-grad)">// DEVSEC</text>
+  <text x="230" y="95" font-family="'Orbitron', 'Fira Code', sans-serif" font-size="32" font-weight="900" fill="#0f172a">SHYYUNZ</text>
+  <text x="430" y="95" font-family="'Orbitron', 'Fira Code', sans-serif" font-size="32" font-weight="900" fill="url(#indigo-cyan-grad)">// DEVSEC</text>
 
   <!-- Subtitle Typewriter Effect SMIL (PT-BR) -->
   <g clip-path="url(#type-clip-light)">

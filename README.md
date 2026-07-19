@@ -1,5 +1,5 @@
 <!-- ==========================================================================
-   SHYYX (SHYYUNZ) - DOSSIÊ DE SEGURANÇA & ENGENHARIA WEB (GITHUB PROFILE)
+   SHYYUNZ - DOSSIÊ DE SEGURANÇA & ENGENHARIA WEB (GITHUB PROFILE)
    ========================================================================== -->
 
 <!-- 1. HEADER SVG ANIMADO THEME-AWARE (DARK / LIGHT MODE) -->
@@ -8,7 +8,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/light.svg">
-      <img alt="SHYYX DevSec Header Animado" src="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/dark.svg" width="100%">
+      <img alt="SHYYUNZ DevSec Header Animado" src="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/dark.svg" width="100%">
     </picture>
   </a>
 </div>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://shyyxn1.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/ABRIR_SHYYX--OS_AO_VIVO-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
+    <img src="https://img.shields.io/badge/ABRIR_SHYYUNZ--OS_AO_VIVO-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
   </a>
   <img src="https://img.shields.io/badge/Nível_de_Segurança-MÁXIMO-7000FF?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquitetura-ALTA_PERFORMANCE-FF007F?style=for-the-badge&logo=lightning&logoColor=white" />
@@ -33,14 +33,14 @@
   <tr>
     <td>
       <div align="center">
-        <h3>⚡ <code>shyyx@caixa-seguranca:~$ ./carregar_dossie.sh --sigiloso</code></h3>
+        <h3>⚡ <code>shyyunz@caixa-seguranca:~$ ./carregar_dossie.sh --sigiloso</code></h3>
       </div>
       <pre>
-┌──(<b>shyyx⚡caixa-seguranca</b>)-[<b>~/workspace</b>]
+┌──(<b>shyyunz⚡caixa-seguranca</b>)-[<b>~/workspace</b>]
 └─$ <b>cat perfil_seguranca.sys</b>
 
 <b>[IDENTIFICAÇÃO_DO_OPERADOR]</b>
-├── <b>APELIDO</b>       : Shyyx (shyyunz)
+├── <b>APELIDO</b>       : Shyyunz
 ├── <b>FUNÇÃO</b>        : Engenheiro de Segurança DevSec &amp; Sistemas Web de Alta Performance
 ├── <b>STACK_BASE</b>    : Python 3, Rich CLI, JavaScript ES6+, PostgreSQL Cursors, PyMongo
 └── <b>WEB_APP_OS</b>    : 🌐 <a href="https://shyyxn1.github.io/portfolio/"><b>https://shyyxn1.github.io/portfolio/</b></a>
@@ -171,6 +171,6 @@
 <!-- 8. RODAPÉ WAVY -->
 <div align="center">
   <a href="https://shyyxn1.github.io/portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=140&section=footer&text=ABRIR%20SHYYX-OS%20%E2%80%A2%20EXPERIENCIA%20IMERSIVA&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Rodapé Wave"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=140&section=footer&text=ABRIR%20SHYYUNZ-OS%20%E2%80%A2%20EXPERIENCIA%20IMERSIVA&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Rodapé Wave"/>
   </a>
 </div>
