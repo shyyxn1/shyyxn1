@@ -2,19 +2,19 @@
    SHYYX (SHYYUNZ) - ULTIMATE CLASSIFIED SEC-OPS DOSSIER (GITHUB PROFILE)
    ========================================================================== -->
 
-<!-- 1. INTERACTIVE LIVE IMMERSIVE COCKPIT LINK BANNER -->
+<!-- 1. GITHUB THEME-AWARE ANIMATED SMIL SVG HEADER (DARK / LIGHT MODE) -->
 <div align="center">
   <a href="https://shyyxn1.github.io/portfolio/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=260&section=header&text=SHYYX%20%7C%20SEC-OPS%20DOSSIER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" alt="Header Wave"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/light.svg">
+      <img alt="SHYYX DevSec Animated Header" src="https://raw.githubusercontent.com/shyyxn1/shyyxn1/main/dark.svg" width="100%">
+    </picture>
   </a>
 </div>
 
-<!-- 2. ANIMATED CYBER TYPING TITLE -->
+<!-- 2. ANIMATED BADGES & LINK -->
 <div align="center">
-
-<a href="https://shyyxn1.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+LAUNCH+SHYYX-OS+IMMERSIVE+EXPERIENCE;%F0%9F%9B%A1%EF%B8%8F+Full-Stack+Web+%26+Security+Engineering;%E2%9A%A1+Creator+of+ShyyunzFire+CLI+%26+JWT+Pivot+Auditor;%F0%9F%94%90+Client-Side+IP+Geofencing+%26+Anti-DevTools" alt="Typing Header" />
-</a>
 
 <p align="center">
   <a href="https://shyyxn1.github.io/portfolio/">
@@ -29,7 +29,7 @@
 ---
 
 <!-- 3. CLASSIFIED SEC-OPS DOSSIER & COCKPIT -->
-<table width="100%" bgcolor="#090c15">
+<table width="100%">
   <tr>
     <td>
       <div align="center">
