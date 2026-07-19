@@ -1,59 +1,55 @@
 <!-- ==========================================================================
-   SHYYX (SHYYUNZ) - ULTIMATE ANIMATED CYBERPUNK GITHUB PROFILE README
+   SHYYX (SHYYUNZ) - ULTIMATE CLASSIFIED SEC-OPS DOSSIER (GITHUB PROFILE)
    ========================================================================== -->
 
-<!-- 1. ANIMATED WAVE CAPSULE HEADER -->
+<!-- 1. INTERACTIVE LIVE IMMERSIVE COCKPIT LINK BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=240&section=header&text=SHYYX%20%E2%9A%A1%20DEV%20SEC&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" alt="Header Wave"/>
+  <a href="https://shyyxn1.github.io/portfolio/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=260&section=header&text=SHYYX%20%7C%20SEC-OPS%20DOSSIER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" alt="Header Wave"/>
+  </a>
 </div>
 
-<!-- 2. ANIMATED TYPING SUBHEADER -->
+<!-- 2. ANIMATED CYBER TYPING TITLE -->
 <div align="center">
 
-<a href="https://github.com/shyyxn1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A1%EF%B8%8F+Full-Stack+Web+%26+Security+Engineering;%E2%9A%A1+Creator+of+ShyyunzFire+CLI+%26+JWT+Pivot+Auditor;%F0%9F%94%90+Client-Side+IP+Geofencing+%26+Anti-DevTools;%F0%9F%92%B3+E-Commerce+Checkout+Integrations+%26+CRO+Popups" alt="Typing Header" />
+<a href="https://shyyxn1.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+LAUNCH+SHYYX-OS+IMMERSIVE+EXPERIENCE;%F0%9F%9B%A1%EF%B8%8F+Full-Stack+Web+%26+Security+Engineering;%E2%9A%A1+Creator+of+ShyyunzFire+CLI+%26+JWT+Pivot+Auditor;%F0%9F%94%90+Client-Side+IP+Geofencing+%26+Anti-DevTools" alt="Typing Header" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ONLINE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Security-MAXIMUM-7000FF?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance-ULTRA_FAST-FF007F?style=for-the-badge&logo=lightning&logoColor=white" />
+  <a href="https://shyyxn1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/ENTER_LIVE_SHYYX--OS-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/Security_Level-CLASSIFIED-7000FF?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-HIGH_YIELD-FF007F?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-<!-- 3. ANIMATED GITHUB PROFILE TROPHIES -->
-<div align="center">
-  <h3>🏆 GitHub Achievements & Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=shyyxn1&theme=synthwave&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!-- 4. CYBER TERMINAL COCKPIT -->
-<table width="100%" bgcolor="#0d1117">
+<!-- 3. CLASSIFIED SEC-OPS DOSSIER & COCKPIT -->
+<table width="100%" bgcolor="#090c15">
   <tr>
     <td>
       <div align="center">
-        <h3>💻 <code>shyyx@security-box:~$ ./init_session.sh</code></h3>
+        <h3>⚡ <code>shyyx@security-box:~$ ./load_dossier.sh --classified</code></h3>
       </div>
       <pre>
 ┌──(<b>shyyx⚡security-box</b>)-[<b>~/workspace</b>]
-└─$ <b>cat profile_system.env</b>
+└─$ <b>cat security_profile.sys</b>
 
-<b>[DEVELOPER_IDENTITY]</b>
-├── <b>NAME</b>       : Shyyx (shyyunz)
-├── <b>SPECIALTY</b>  : Security Tooling, Python CLI & High-Yield Web Engineering
-├── <b>MISSION</b>    : Building resilient, anti-analysis client systems & high-speed web apps
-└── <b>STATUS</b>     : 🟢 ACTIVE - Available for high-impact projects
+<b>[OPERATOR_IDENTIFICATION]</b>
+├── <b>HANDLE</b>        : Shyyx (shyyunz)
+├── <b>ROLE</b>          : DevSec & High-Performance Web Systems Engineer
+├── <b>CORE_STACK</b>    : Python 3, Rich CLI, JavaScript ES6+, PostgreSQL Cursors, PyMongo
+└── <b>IMMERSIVE_APP</b> : 🌐 <a href="https://shyyxn1.github.io/portfolio/"><b>https://shyyxn1.github.io/portfolio/</b></a>
 
-<b>[ACTIVE_MODULES]</b>
-├── 🛡️ <b>ShyyunzFire CLI</b>      : JWT Base64 audit, algorithm verification & zero-RAM DB streaming
-├── ⚡ <b>Web Re-Engineering</b>   : SSG extraction, tracking sanitization & CSS/JS optimization
-├── 🔐 <b>Geoblock & Shield</b>    : Client-side IP geofencing, CORS hardening & Anti-DevTools
-└── 💳 <b>Checkout Engine</b>      : Duttyfy, Yampi & FacePay integrations with CRO popups
+<b>[SPECIALIZED_SYSTEMS]</b>
+├── 🛡️ <b>ShyyunzFire Security CLI</b> : JWT Base64 audit, algorithm check & zero-RAM DB streaming
+├── ⚡ <b>Web Re-Engineering Hub</b> : SSG extraction, tracking sanitization & CSS/JS optimization
+├── 🔐 <b>Geoblock & Client Shield</b> : Client-side IP geofencing, CORS hardening & Anti-DevTools
+└── 💳 <b>Multi-Checkout Engine</b>   : Gateway integrations (Duttyfy/Yampi) & CRO Popups
       </pre>
     </td>
   </tr>
@@ -61,7 +57,15 @@
 
 ---
 
-<!-- 5. VISUAL PROJECTS WAR ROOM GRID -->
+<!-- 4. 3D TROPHIES MATRIX -->
+<div align="center">
+  <h3>🏆 GitHub Achievements & Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=shyyxn1&theme=synthwave&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- 5. FEATURED WAR ROOM REPOSITORIES -->
 <h2 align="center">🚀 Featured Repositories & Systems</h2>
 
 <table width="100%">
@@ -73,10 +77,8 @@
         </a>
         <br/><br/>
         <p><b>Python Security Auditor & DB Exporter</b></p>
-        <p>Decodificação Base64 de JWTs, detecção de vulnerabilidades <code>"none"</code>, escaneamento de credenciais e exportação de bancos em lotes de 5k registros.</p>
-        <p>
-          <code>Python 3</code> • <code>Rich CLI</code> • <code>PostgreSQL Cursors</code> • <code>PyMongo</code>
-        </p>
+        <p>Decodificação Base64 de JWTs, detecção de vulnerabilidades <code>"none"</code>, escaneamento de credenciais LGPD e exportação de bancos em lotes de 5k registros.</p>
+        <p><code>Python 3</code> • <code>Rich CLI</code> • <code>PostgreSQL</code> • <code>PyMongo</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -87,9 +89,7 @@
         <br/><br/>
         <p><b>Web Extraction & Asset Sanitization</b></p>
         <p>Reconstrução total de arquiteturas frontend, purga automatizada de scripts legados e reconstrução SSG de alta performance.</p>
-        <p>
-          <code>Vanilla JS</code> • <code>HTML5</code> • <code>Modern CSS3</code> • <code>SSG</code>
-        </p>
+        <p><code>Vanilla JS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>SSG</code></p>
       </div>
     </td>
   </tr>
@@ -102,9 +102,7 @@
         <br/><br/>
         <p><b>Web Geofencing & Anti-Analysis Shield</b></p>
         <p>Bloqueio regional de visitantes por faixa de IP, proteção mobile contra cópias, CORS hardening e neutralização de ferramentas de inspeção.</p>
-        <p>
-          <code>JS ES6+</code> • <code>IP APIs</code> • <code>Anti-Debugger</code> • <code>CORS</code>
-        </p>
+        <p><code>JS ES6+</code> • <code>IP APIs</code> • <code>Anti-Debugger</code> • <code>CORS</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -115,9 +113,7 @@
         <br/><br/>
         <p><b>Payment Gateways & CRO Systems</b></p>
         <p>Integração de checkouts transparentes (Duttyfy, Yampi, FacePay), cálculo de desconto dinâmico e rastreamento de pixels (TikTok, Clarity, Meta).</p>
-        <p>
-          <code>Gateway APIs</code> • <code>TikTok Pixel</code> • <code>Clarity</code> • <code>CRO</code>
-        </p>
+        <p><code>Gateway APIs</code> • <code>TikTok Pixel</code> • <code>Clarity</code> • <code>CRO</code></p>
       </div>
     </td>
   </tr>
@@ -125,8 +121,8 @@
 
 ---
 
-<!-- 6. ANIMATED SKILLS & BADGES MATRIX -->
-<h2 align="center">🧰 Tech Stack Arsenal</h2>
+<!-- 6. TECH STACK ARSENAL -->
+<h2 align="center">🧰 Technical Ecosystem</h2>
 
 <div align="center">
 
@@ -148,20 +144,11 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### Infrastructure, DevOps & Ops
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white" />
-</p>
-
 </div>
 
 ---
 
-<!-- 7. ANIMATED ANALYTICS DASHBOARD & ACTIVITY GRAPH -->
+<!-- 7. REAL-TIME ANALYTICS DASHBOARD -->
 <h2 align="center">📊 Real-Time GitHub Analytics & Contribution Wave</h2>
 
 <div align="center">
@@ -171,32 +158,19 @@
 
 <br/><br/>
 
-<!-- ANIMATED CONTRIBUTION ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyyxn1&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyyxn1&theme=synthwave&border_radius=12" width="100%" alt="Streak Stats"/>
 
 </div>
 
 ---
 
-<!-- 8. CONNECT & ANIMATED FOOTER CAPSULE -->
+<!-- 8. FOOTER WAVE -->
 <div align="center">
-
-<h3>⚡ Connect with Shyyx</h3>
-
-<a href="https://github.com/shyyxn1">
-  <img src="https://img.shields.io/badge/GitHub-shyyxn1-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://github.com/shyyunz/shyyunzfire">
-  <img src="https://img.shields.io/badge/Project-ShyyunzFire-7000FF?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=140&section=footer&text=CONTINUOUS%20OPTIMIZATION%20%E2%80%A2%20ZERO%20FRICTION&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Wave"/>
-
+  <a href="https://shyyxn1.github.io/portfolio/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=140&section=footer&text=ENTER%20SHYYX-OS%20%E2%80%A2%20IMMERSIVE%20EXPERIENCE&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Wave"/>
+  </a>
 </div>
