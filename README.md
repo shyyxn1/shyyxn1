@@ -41,15 +41,15 @@
 
 <b>[IDENTIFICAÇÃO_DO_OPERADOR]</b>
 ├── <b>APELIDO</b>       : Shyyunz
-├── <b>FUNÇÃO</b>        : Engenheiro de Segurança DevSec &amp; Sistemas Web de Alta Performance
-├── <b>STACK_BASE</b>    : Python 3, Rich CLI, JavaScript ES6+, PostgreSQL Cursors, PyMongo
+├── <b>FUNÇÃO</b>        : Engenheiro de Segurança DevSec, Automações CLI &amp; Sistemas Web de Alta Performance
+├── <b>STACK_BASE</b>    : Python 3, Rich CLI, JavaScript ES6+, PostgreSQL Cursors, PyMongo, Docker, Tailwind, REST APIs
 └── <b>WEB_APP_OS</b>    : 🌐 <a href="https://shyyxn1.github.io/portfolio/"><b>https://shyyxn1.github.io/portfolio/</b></a>
 
 <b>[MÓDULOS_ESPECIALIZADOS]</b>
-├── 🛡️ <b>ShyyunzFire Security CLI</b> : Auditoria JWT Base64, checagem algorítmica &amp; streaming DB zero-RAM
-├── ⚡ <b>Re-Engenharia Web Hub</b>   : Extração SSG, higienização de pixels &amp; otimização CSS/JS
-├── 🔐 <b>Geoblock &amp; Client Shield</b> : Geobloqueio IP client-side, mitigação CORS &amp; Anti-DevTools
-└── 💳 <b>Multi-Checkout Engine</b>   : Integração de gateways (Duttyfy/Yampi) &amp; Popups CRO
+├── 🛡️ <b>ShyyunzFire Security CLI</b> : Auditoria JWT Base64, SAST, escaneamento LGPD &amp; streaming DB zero-RAM
+├── ⚡ <b>Re-Engenharia Web Hub</b>   : Extração SSG, higienização de pixels, Web Vitals &amp; otimização CSS/JS
+├── 🔐 <b>Geoblock &amp; Client Shield</b> : Geobloqueio IP client-side, mitigação CORS, Bot Evasion &amp; Anti-DevTools
+└── 💳 <b>Multi-Checkout Engine</b>   : Gateways (Duttyfy/Yampi/FacePay), Popups CRO &amp; Analytics (TikTok/Clarity/Meta)
       </pre>
     </td>
   </tr>
@@ -77,8 +77,8 @@
         </a>
         <br/><br/>
         <p><b>Auditor de Segurança Python &amp; Exporte DB</b></p>
-        <p>Decodificação Base64 de JWTs, detecção de vulnerabilidades <code>"none"</code>, escaneamento LGPD de CPFs/CNPJs e exportação de bancos em lotes de 5k registros.</p>
-        <p><code>Python 3</code> • <code>Rich CLI</code> • <code>PostgreSQL</code> • <code>PyMongo</code></p>
+        <p>Decodificação Base64 de JWTs, detecção de vulnerabilidades <code>"none"</code>, escaneamento SAST/LGPD de CPFs/CNPJs e exportação de bancos em lotes de 5k registros.</p>
+        <p><code>Python 3</code> • <code>Rich CLI</code> • <code>PostgreSQL</code> • <code>PyMongo</code> • <code>SAST</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -87,9 +87,9 @@
           <img src="https://img.shields.io/badge/⚡_Re--Engenharia_Web-SSG_Hub-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" width="100%"/>
         </a>
         <br/><br/>
-        <p><b>Extração Web &amp; Higienização de Pixels</b></p>
-        <p>Reconstrução total de arquiteturas frontend, purga automatizada de scripts legados e reconstrução SSG de alta performance.</p>
-        <p><code>Vanilla JS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>SSG</code></p>
+        <p><b>Extração Web &amp; Otimização de Performance</b></p>
+        <p>Reconstrução total de arquiteturas frontend, purga automatizada de scripts legados, Web Vitals e reconstrução SSG de alta performance.</p>
+        <p><code>Vanilla JS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>SSG</code> • <code>Web Vitals</code></p>
       </div>
     </td>
   </tr>
@@ -101,8 +101,8 @@
         </a>
         <br/><br/>
         <p><b>Geobloqueio Web &amp; Escudo Anti-Análise</b></p>
-        <p>Bloqueio regional de visitantes por faixa de IP, proteção mobile contra cópias, mitigação de CORS e neutralização de ferramentas de inspeção.</p>
-        <p><code>JS ES6+</code> • <code>IP APIs</code> • <code>Anti-Debugger</code> • <code>CORS</code></p>
+        <p>Bloqueio regional de visitantes por faixa de IP, proteção mobile contra cópias, mitigação de CORS, Bot Evasion e neutralização de ferramentas de inspeção.</p>
+        <p><code>JS ES6+</code> • <code>IP APIs</code> • <code>Anti-Debugger</code> • <code>CORS</code> • <code>Geofencing</code></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -113,7 +113,7 @@
         <br/><br/>
         <p><b>Gateways de Pagamento &amp; Sistemas CRO</b></p>
         <p>Integração de checkouts transparentes (Duttyfy, Yampi, FacePay), cálculo de desconto dinâmico e rastreamento de pixels (TikTok, Clarity, Meta).</p>
-        <p><code>APIs Gateway</code> • <code>TikTok Pixel</code> • <code>Clarity</code> • <code>CRO</code></p>
+        <p><code>APIs Gateway</code> • <code>TikTok Pixel</code> • <code>Clarity</code> • <code>Meta Pixel</code> • <code>CRO</code></p>
       </div>
     </td>
   </tr>
@@ -121,27 +121,63 @@
 
 ---
 
-<!-- 6. ECOSSISTEMA TÉCNICO -->
-<h2 align="center">🧰 Ecossistema Técnico</h2>
+<!-- 6. ECOSSISTEMA TÉCNICO & MATRIZ DE ARSENAL -->
+<h2 align="center">🧰 Ecossistema Técnico &amp; Arsenal de Habilidades</h2>
 
 <div align="center">
 
-### Backend &amp; Sistemas de Segurança
+### 🛡️ Segurança Web, Engenharia Reversa &amp; Compliance
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Security_SAST-7000FF?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Structure_Audit-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/IP_Geofencing-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anti--DevTools_%26_Debugger-FF007F?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORS_Hardening-10B981?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/LGPD_Validation-3B82F6?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bot_Evasion-F59E0B?style=for-the-badge&logo=robot&logoColor=black" />
 </p>
 
-### Engenharia Frontend &amp; Web UX
+### 🐍 Backend, Banco de Dados &amp; Engenharia de Dados
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rich_CLI-3776AB?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_Server--Side_Cursors-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite_Optimization-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMongo_%26_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Batch_Streaming-8B5CF6?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+### ⚡ Engenharia Frontend, Otimização Web &amp; UX
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5_Semantics-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSG_Architecture-10B981?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Vitals_Performance-FF007F?style=for-the-badge&logo=lighthouse&logoColor=white" />
+</p>
+
+### 💳 E-Commerce, Checkouts &amp; Growth Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Checkout_Gateways-Duttyfy_%7C_Yampi_%7C_FacePay-7000FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRO_Popup_Engines-10B981?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok_Pixel-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_Pixel-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/UTM_Sanitization-F59E0B?style=for-the-badge&logo=google&logoColor=black" />
+</p>
+
+### 🛠️ DevOps, Ferramentas &amp; Infraestrutura
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Obsidian_Knowledge-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 </div>
