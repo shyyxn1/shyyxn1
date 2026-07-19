@@ -57,10 +57,24 @@
 
 ---
 
-<!-- 4. TROFÉUS E CONQUISTAS DO GITHUB -->
+<!-- 4. MEDALHAS & TROFÉUS TÉCNICOS (GRID 100% GARANTIDO E SEM IMAGENS QUEBRADAS) -->
+<h2 align="center">🏆 Troféus &amp; Conquistas do Desenvolvedor</h2>
+
 <div align="center">
-  <h3>🏆 Troféus &amp; Conquistas do GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=shyyxn1&theme=synthwave&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" width="100%" alt="Troféus GitHub"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Troféu-Engenharia_DevSec-7000FF?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_Troféu-Re--Engenharia_Web-00F0FF?style=for-the-badge&logo=speedtest&logoColor=black" />
+  <img src="https://img.shields.io/badge/🔐_Troféu-Escudo_Geoblock_IP-FF007F?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/💳_Troféu-Integração_Multi--Checkout-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Mestre-Python_CLI_Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_Mestre-Streaming_SQL_Zero--RAM-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/⭐_Nível-Código_Sanitizado_100%25-F59E0B?style=for-the-badge&logo=star&logoColor=black" />
+</p>
+
 </div>
 
 ---
@@ -121,7 +135,7 @@
 
 ---
 
-<!-- 6. ECOSSISTEMA TÉCNICO & MATRIZ DE ARSENAL -->
+<!-- 6. ECOSSISTEMA TÉCNICO -->
 <h2 align="center">🧰 Ecossistema Técnico &amp; Arsenal de Habilidades</h2>
 
 <div align="center">
@@ -184,21 +198,22 @@
 
 ---
 
-<!-- 7. ESTATÍSTICAS EM TEMPO REAL -->
-<h2 align="center">📊 Estatísticas &amp; Gráfico de Atividade</h2>
+<!-- 7. METRICAS E PAINEL DE PERFORMANCE (100% ESTÁVEL E GARANTIDO) -->
+<h2 align="center">📊 Métricas &amp; Painel do Desenvolvedor</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shyyxn1&show_icons=true&theme=synthwave&rank_icon=github&count_private=true&border_radius=12" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyyxn1&layout=compact&theme=synthwave&border_radius=12" width="49%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Linguagem_Principal-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Stack-JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Estilo-Modern_CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyyxn1&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=ff007f&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyyxn1&theme=synthwave&border_radius=12" width="100%" alt="Estatísticas de Sequência"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositórios-Públicos_%26_Privados-7000FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qualidade-Zero_Estouro_de_RAM-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy_Status-OPERATIONAL-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</p>
 
 </div>
 
