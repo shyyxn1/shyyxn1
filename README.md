@@ -1,176 +1,202 @@
+<!-- ==========================================================================
+   SHYYX (SHYYUNZ) - ULTIMATE ANIMATED CYBERPUNK GITHUB PROFILE README
+   ========================================================================== -->
+
+<!-- 1. ANIMATED WAVE CAPSULE HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=240&section=header&text=SHYYX%20%E2%9A%A1%20DEV%20SEC&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%" alt="Header Wave"/>
+</div>
+
+<!-- 2. ANIMATED TYPING SUBHEADER -->
 <div align="center">
 
-<!-- Animated Header -->
 <a href="https://github.com/shyyxn1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%9A%A1+HI%2C+I'M+SHYYX+(SHYYUNZ)+%E2%9A%A1;%F0%9F%9B%A1%EF%B8%8F+SECURITY+ENGINEER+%26+CLI+SPECIALIST;%E2%9A%A1+FULL-STACK+WEB+RE-ENGINEERING;%F0%9F%94%90+CLIENT-SIDE+GEOBLOCKING+%26+ANTI-DEVTOOLS" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A1%EF%B8%8F+Full-Stack+Web+%26+Security+Engineering;%E2%9A%A1+Creator+of+ShyyunzFire+CLI+%26+JWT+Pivot+Auditor;%F0%9F%94%90+Client-Side+IP+Geofencing+%26+Anti-DevTools;%F0%9F%92%B3+E-Commerce+Checkout+Integrations+%26+CRO+Popups" alt="Typing Header" />
 </a>
 
 <p align="center">
-  <b>Architecting High-Yield Web Systems • Custom Python Security Tooling • Client-Side Geofencing</b>
+  <img src="https://img.shields.io/badge/System-ONLINE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Security-MAXIMUM-7000FF?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-ULTRA_FAST-FF007F?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
-<!-- Quick Status Badges -->
+</div>
+
+---
+
+<!-- 3. ANIMATED GITHUB PROFILE TROPHIES -->
+<div align="center">
+  <h3>🏆 GitHub Achievements & Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=shyyxn1&theme=synthwave&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- 4. CYBER TERMINAL COCKPIT -->
+<table width="100%" bgcolor="#0d1117">
+  <tr>
+    <td>
+      <div align="center">
+        <h3>💻 <code>shyyx@security-box:~$ ./init_session.sh</code></h3>
+      </div>
+      <pre>
+┌──(<b>shyyx⚡security-box</b>)-[<b>~/workspace</b>]
+└─$ <b>cat profile_system.env</b>
+
+<b>[DEVELOPER_IDENTITY]</b>
+├── <b>NAME</b>       : Shyyx (shyyunz)
+├── <b>SPECIALTY</b>  : Security Tooling, Python CLI & High-Yield Web Engineering
+├── <b>MISSION</b>    : Building resilient, anti-analysis client systems & high-speed web apps
+└── <b>STATUS</b>     : 🟢 ACTIVE - Available for high-impact projects
+
+<b>[ACTIVE_MODULES]</b>
+├── 🛡️ <b>ShyyunzFire CLI</b>      : JWT Base64 audit, algorithm verification & zero-RAM DB streaming
+├── ⚡ <b>Web Re-Engineering</b>   : SSG extraction, tracking sanitization & CSS/JS optimization
+├── 🔐 <b>Geoblock & Shield</b>    : Client-side IP geofencing, CORS hardening & Anti-DevTools
+└── 💳 <b>Checkout Engine</b>      : Duttyfy, Yampi & FacePay integrations with CRO popups
+      </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 5. VISUAL PROJECTS WAR ROOM GRID -->
+<h2 align="center">🚀 Featured Repositories & Systems</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/shyyunz/shyyunzfire">
+          <img src="https://img.shields.io/badge/🛡️_ShyyunzFire-Security_CLI-7000FF?style=for-the-badge&logo=python&logoColor=white" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Python Security Auditor & DB Exporter</b></p>
+        <p>Decodificação Base64 de JWTs, detecção de vulnerabilidades <code>"none"</code>, escaneamento de credenciais e exportação de bancos em lotes de 5k registros.</p>
+        <p>
+          <code>Python 3</code> • <code>Rich CLI</code> • <code>PostgreSQL Cursors</code> • <code>PyMongo</code>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/shyyunz/white-coreano">
+          <img src="https://img.shields.io/badge/⚡_Web_Re--Engineering-SSG_Hub-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Web Extraction & Asset Sanitization</b></p>
+        <p>Reconstrução total de arquiteturas frontend, purga automatizada de scripts legados e reconstrução SSG de alta performance.</p>
+        <p>
+          <code>Vanilla JS</code> • <code>HTML5</code> • <code>Modern CSS3</code> • <code>SSG</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/shyyunz/oferta-panelas">
+          <img src="https://img.shields.io/badge/🔐_Client_Shield-Geoblock_%26_Anti--DevTools-FF007F?style=for-the-badge&logo=shield&logoColor=white" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Web Geofencing & Anti-Analysis Shield</b></p>
+        <p>Bloqueio regional de visitantes por faixa de IP, proteção mobile contra cópias, CORS hardening e neutralização de ferramentas de inspeção.</p>
+        <p>
+          <code>JS ES6+</code> • <code>IP APIs</code> • <code>Anti-Debugger</code> • <code>CORS</code>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/shyyxn1/ecomerce-casa">
+          <img src="https://img.shields.io/badge/💳_Checkout_Engine-Multi--Gateway_Hub-10B981?style=for-the-badge&logo=shopify&logoColor=white" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Payment Gateways & CRO Systems</b></p>
+        <p>Integração de checkouts transparentes (Duttyfy, Yampi, FacePay), cálculo de desconto dinâmico e rastreamento de pixels (TikTok, Clarity, Meta).</p>
+        <p>
+          <code>Gateway APIs</code> • <code>TikTok Pixel</code> • <code>Clarity</code> • <code>CRO</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 6. ANIMATED SKILLS & BADGES MATRIX -->
+<h2 align="center">🧰 Tech Stack Arsenal</h2>
+
+<div align="center">
+
+### Backend & Security Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-OPERATIONAL-10B981?style=for-the-badge&logo=opsgenie&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Level-ELEVATED-8B5CF6?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-HIGH_PERFORMANCE_WEB-06B6D4?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+</p>
+
+### Frontend Engineering & Web UX
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### Infrastructure, DevOps & Ops
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 💻 `shyyx@security-box:~$ cat profile.json`
-
-```json
-{
-  "developer": "Shyyx (shyyunz)",
-  "role": "Full-Stack Web & Security Systems Engineer",
-  "core_domains": [
-    "Python CLI & Security Auditing (ShyyunzFire)",
-    "High-Performance Web Re-Engineering & SSG Architecture",
-    "Client-Side Geofencing & Anti-DevTools Protection",
-    "Conversion Rate Optimization (CRO) & E-Commerce Integration"
-  ],
-  "system_architecture": {
-    "backend": ["Python 3", "Rich CLI", "PostgreSQL Server-Side Cursors", "SQLite", "PyMongo"],
-    "frontend": ["Vanilla JS (ES6+)", "Modern CSS3 (Glassmorphism)", "HTML5 Semantics", "Web Vitals"],
-    "security": ["JWT Structure & Pivot Analysis", "Regex LGPD Validators", "IP Geofencing", "CORS Hardening"]
-  },
-  "status": "Available for High-Impact Projects & Security Tooling"
-}
-```
-
----
-
-## ⚡ Core Specializations & Arsenal
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Security Engineering & CLI Systems</h3>
-      <ul>
-        <li><b>ShyyunzFire Suite:</b> Python CLI security scanner with zero-RAM-spike batch data streaming (5,000 rows/iteration).</li>
-        <li><b>JWT Structure & Pivot Analyzer:</b> Automated Base64 header/payload decoder, expiration checking, and <code>"none"</code> algorithm vulnerability detector.</li>
-        <li><b>Algorithmic LGPD Scanner:</b> Real mathematical digit verification for CPFs/CNPJs, eliminating false positives in web codebases.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Web Re-Engineering & Performance</h3>
-      <ul>
-        <li><b>Landing Page Extraction & SSG:</b> Rebuilding complex web applications with clean architecture and asset optimization.</li>
-        <li><b>Tracking Sanitization:</b> Automated purging of legacy pixels, third-party spyware, and unwanted tracking dependencies.</li>
-        <li><b>Client-Side Geofencing & Shield:</b> JavaScript modules for IP range geoblocking, CORS enforcement, and Anti-DevTools protection.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Highlighted Repositories & War Room
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛡️ ShyyunzFire Security Suite</h3>
-        <p><i>Python CLI Tooling • DB Streaming • JWT Audit</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p>Engineered for high-volume database extraction, structural JWT auditing with interactive pivot CLI, and algorithmic credential leakage detection.</p>
-        <a href="https://github.com/shyyunz/shyyunzfire"><b>View Project Repository →</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>⚡ Web Re-Engineering Hub</h3>
-        <p><i>Web Extraction • Asset Sanitization • SSG Architecture</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </p>
-        <p>Complete re-architecting of e-commerce landing pages, total sanitization of legacy tracking pixels, and ultra-fast SSG asset rebuilding.</p>
-        <a href="https://github.com/shyyunz/white-coreano"><b>View Project Repository →</b></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🔐 Client-Side Geoblock & Shield</h3>
-        <p><i>IP Geofencing • Anti-DevTools • CORS Defense</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/JS_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Security-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white" />
-        </p>
-        <p>Client-side protection scripts for regional IP restriction, debugger neutralization, F12 inspection block, and mobile anti-copy defenses.</p>
-        <a href="https://github.com/shyyunz/oferta-panelas"><b>View Project Repository →</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>💳 Multi-Checkout Integration Hub</h3>
-        <p><i>Payment Gateways • CRO Popups • Analytics</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Checkouts-Duttyfy%20%7C%20Yampi-8B5CF6?style=flat-square" />
-          <img src="https://img.shields.io/badge/Tracking-TikTok%20%7C%20Clarity-06B6D4?style=flat-square" />
-        </p>
-        <p>Seamless gateway integrations, dynamic price percentage calculators, conversion popups, and multi-pixel event tracking.</p>
-        <a href="https://github.com/shyyxn1/ecomerce-casa"><b>View Project Repository →</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧰 Technical Arsenal & Ecosystem
+<!-- 7. ANIMATED ANALYTICS DASHBOARD & ACTIVITY GRAPH -->
+<h2 align="center">📊 Real-Time GitHub Analytics & Contribution Wave</h2>
 
 <div align="center">
 
-| Domain | Languages, Frameworks & Core Tools |
-| :--- | :--- |
-| **Backend & CLI Systems** | `Python 3` `Rich CLI` `Regex Engine` `PyMongo` `PostgreSQL Cursors` `SQLite` |
-| **Frontend Engineering** | `Vanilla JS (ES6+)` `Modern CSS3` `Glassmorphism` `HTML5 Semantics` `Flexbox/Grid` |
-| **Security & Auditing** | `JWT Structure Decoders` `Algorithmic LGPD Validators` `IP Geofencing` `Anti-DevTools` |
-| **DevOps & Cloud** | `Git` `GitHub Actions` `Vercel` `Netlify` `Cloudflare Pages` `Obsidian Knowledge Graphs` |
-
-</div>
-
----
-
-## 📊 Developer Metrics & Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shyyxn1&show_icons=true&theme=synthwave&rank_icon=github&count_private=true&border_radius=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyyxn1&layout=compact&theme=synthwave&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shyyxn1&show_icons=true&theme=synthwave&rank_icon=github&count_private=true&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyyxn1&layout=compact&theme=synthwave&border_radius=12" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyyxn1&theme=synthwave&border_radius=10" width="98%" />
+<!-- ANIMATED CONTRIBUTION ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyyxn1&theme=react-dark&bg_color=0d1117&color=00f0ff&line=7000ff&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyyxn1&theme=synthwave&border_radius=12" width="100%" alt="Streak Stats"/>
 
 </div>
 
 ---
 
+<!-- 8. CONNECT & ANIMATED FOOTER CAPSULE -->
 <div align="center">
 
-### 🤝 Connect & Collaborate
+<h3>⚡ Connect with Shyyx</h3>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-shyyxn1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyyxn1)
-[![Python Security](https://img.shields.io/badge/Tooling-ShyyunzFire-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/shyyunz/shyyunzfire)
-[![Web Engineering](https://img.shields.io/badge/Engineering-Full--Stack-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/shyyxn1)
+<a href="https://github.com/shyyxn1">
+  <img src="https://img.shields.io/badge/GitHub-shyyxn1-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://github.com/shyyunz/shyyunzfire">
+  <img src="https://img.shields.io/badge/Project-ShyyunzFire-7000FF?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-```
-"Continuous optimization, zero friction, and high-security architecture."
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=12,24,30&height=140&section=footer&text=CONTINUOUS%20OPTIMIZATION%20%E2%80%A2%20ZERO%20FRICTION&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer Wave"/>
 
 </div>
